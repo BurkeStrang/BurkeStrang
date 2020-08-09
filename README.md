@@ -1,6 +1,6 @@
 ### Hi there, I'm Burke - aka learnTheCode 👋
 
-## I'm a Developer, and Teacher!
+## I'm a Developer, and Awesome!
 - 🔭 I’m currently working on at a GIS software company
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
