@@ -1,4 +1,4 @@
-### Hi there, I'm Burke - aka learnTheCode 👋
+### Hi there, I'm Burke - aka theCodingInTheVoid 👋
 
 ## I'm a Develop things in code by arranging bits!
 - 🔭 I’m currently working at a GIS software company
