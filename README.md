@@ -1,6 +1,6 @@
 ### Hi there, I'm Burke - aka theCodingInTheVoid 👋
 
-## I'm a Develop things in code by arranging bits!
+## I develop things in code by arranging bits!
 - 🔭 I’m currently working at a GIS software company
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
