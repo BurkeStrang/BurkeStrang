@@ -1,10 +1,8 @@
-### Hi there, I'm Burke - aka theCodingInTheVoid 👋
+### Hi there, I'm Burke👋
 
 ## I develop things in code by arranging bits!
 - 🔭 I’m currently working at a GIS software company
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar / piano and sing
 
 ### Connect with me:
